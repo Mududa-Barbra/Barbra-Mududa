@@ -1,20 +1,22 @@
-# Hi there! 😊👋 I'm Barbra Mududa... 
+# Hi there! 😊👋 I'm Barbra Mududa
 
-I'm results-driven professional in Quality Assurance, product management, and software development with expertise in backlog management, user story creation, and prioritization to ensure high-value product delivery. Skilled in stakeholder engagement, product roadmaps, and iterative development to enhance digital financial services. Proven ability to collaborate with development teams, define acceptance criteria, and monitor key product performance metrics to drive innovation and align with business goals.
+A results-driven QA and product professional passionate about agile development and building user-focused fintech solutions. I specialize in testing, backlog management, and performance optimization — turning complex systems into smooth experiences.
 
-## Technical Skills
+---
 
-**Testing & Quality Assurance:** JMeter, Postman, Robot Framework, Perfecto, Figma
-**Programming & Development:** ReactJS, Ruby, JavaScript, SQL, HTML/CSS
-**Agile & Scrum Methodologies:** Jira, Azure DevOps, Slack
-**User Feedback Analysis and Reporting**
-**Continuous Integration/Continuous Deployment (CI/CD):** Git
-**Stakeholder Engagement & Communication**
-**Product Management:** Backlog Management, Sprint Planning, User Story Development,
-**Project Management**
+## 🚀 Technical Skills
 
-## Education & Certifications
-- University of Nairobi – Bachelor of Arts in Political Science and Psychology
-- Moringa School – Software Development Program
-- ISTQB Foundation Level – Certified Tester
-- Robot Framework - Udemy Certified
+- **Testing & QA:** JMeter, Postman, Robot Framework, Perfecto, Figma  
+- **Development:** ReactJS, Ruby, JavaScript, SQL, HTML/CSS  
+- **Agile Tools:** Jira, Azure DevOps, Slack  
+- **CI/CD:** Git  
+- **Product & Project Management:** Backlog grooming, sprint planning, user story writing  
+- **Stakeholder Collaboration & Reporting**  
+- **User Feedback Analysis & Continuous Improvement**
+
+---
+
+## 📫 Let's Connect
+[LinkedIn](https://linkedin.com/in/barbra-mududa-30a36124b/) | mududabarbs2017@gmail.com
+
+
